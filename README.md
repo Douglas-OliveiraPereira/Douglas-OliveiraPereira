@@ -4,7 +4,7 @@
 
 Me chamo Douglas Oliveira, tenho 20 anos e moro em Cambé - PR.
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou em constante evolução na área de tecnologia.
-Tenho grande interesse em desenvolvimento de web e estou sempre buscando aprender algo novo e aprimorar minhas habilidades. 🚀  
+Tenho grande interesse em desenvolvimento web e estou sempre buscando aprender algo novo e aprimorar minhas habilidades. 🚀  
 
 ---
 
